@@ -1,0 +1,17 @@
+#logotipo{
+    width: 108px;
+    margin-left: 4rem;
+}
+
+#Turbo{
+    width: 200px;
+}
+
+#soto{
+    border-radius: 50%;
+    border: 10px;
+}
+
+main>.container {
+    padding: 30px 0; 
+}
